@@ -27,8 +27,8 @@ def filter_chat(input_file, output_file, start_date_str, end_date_str):
 
 # ✅ Example usage
 filter_chat(
-    input_file="dost.txt",
+    input_file="dummy.txt",
     output_file="filtered_chat.txt",
-    start_date_str="29/06/18",
-    end_date_str="01/07/18"
+    start_date_str="10/01/25",
+    end_date_str="10/01/25"
 )
